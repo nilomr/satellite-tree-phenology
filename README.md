@@ -58,9 +58,6 @@ Clone this repository to your local computer using the following command in the 
 git clone https://github.com/nilomr/satellite-tree-phenology.git
 ```
 
- - [] TODO: Then, download the data from [OSF](), replacing the `data` folder in the repository with the downloaded `data` folder[^1].
-
-
 ### Dependencies
 
 This project uses R v4.2. You must have the [`renv` package](https://rstudio.github.io/renv/articles/renv.html) installed on your local computer. While in an active session, simply run the following line of code in the R Console.
@@ -105,8 +102,6 @@ If you encounter any bugs or issues, please [open an issue](https://github.com/n
 
 
 <br>
-
-[^1]: Data are under version control here, but obtaining these requires `git-lfs` to be installed on your computer and I can't guarantee that it will work.
 
 <sub>
 <br>© Nilo M. Recalde, 2023
